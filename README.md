@@ -52,6 +52,8 @@ Most kayaking trip resources fall into two categories. Either they are books tha
 - Create polygon of likely view distance from preceeding step.
 - Calculate landuse type proportions within view polygon and return as array for every X units along polyline.
 
+## Natural Language Processing Datasets
+- Potentially get permission to leverage trip reports and put-in reports from houston canoe club among others: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
 
 
 ## Pre-calculated data products
